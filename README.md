@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K12Boateng
 - 👀 I’m interested in Database Management Systems
 - 🌱 I’m currently learning Database Technology
-- 💞️ I’m looking to collaborate on projects that involve a Database management system
+- 💞️ I’m looking to collaborate on projects that involve a Databases
   
 
 <!---
