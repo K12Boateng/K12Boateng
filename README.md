@@ -1,4 +1,4 @@
-**🚀 Kwame A. Boateng | Data Analyst**
+**Kwame A. Boateng | Data Engineer | Data Analyst**
 
 👋 Hi there! I'm Kwame A. Boateng, a Data Analyst with a passion for transforming raw data into actionable insights. I specialize in data preparation, ETL processes, complex SQL queries, and advanced data visualization using tools like Power BI and Python.
 
