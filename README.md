@@ -1,24 +1,44 @@
-**Kwame A. Boateng | Data Engineer | Data Analyst**
+# 🌐 Kwame A. Boateng
 
-👋 Hi there! I'm Kwame A. Boateng, a Data Analyst with a passion for transforming raw data into actionable insights. I specialize in data preparation, ETL processes, complex SQL queries, and advanced data visualization using tools like Power BI and Python.
+**Data Engineer \| Data Analyst \|**
 
-**🔧 Skills & Expertise**
+🚀 I'm a data professional passionate about **turning raw data into
+powerful insights** that drive business growth. With expertise in **data
+engineering pipelines, advanced analytics, and interactive
+visualizations**, I bridge the gap between raw datasets and impactful
+decision-making.
 
-**👨‍💻 Data Analytics Tools**
-Python: pandas, matplotlib
-SQL: Complex queries, optimization, database management (PostgreSQL, MySQL, SQL Server)
-Business Intelligence: Power BI, Tableau
-Excel: Advanced formulas, Power Query, Pivot Tables
-R: Statistical analysis, visualization
+------------------------------------------------------------------------
 
-**🛠 Data Engineering**
-Data Integration: Scripting in Python/SQL for ETL
-Database Management: SQL Server, MySQL, AWS RDS
-Cloud Platforms: AWS (S3, EC2, RDS)
+## 🔧 Core Competencies
 
-**📊 Data Visualization**
-Power BI: Dashboard creation, DAX calculations, real-time data updates.
+### 👨‍💻 Data Analytics & Tools
 
-**🔒 Data Governance & Security**
-Data Privacy: GDPR compliance, anonymization techniques
-Data Security: Role-based access control, encryption
+-   **Python** (pandas, matplotlib, seaborn)\
+-   **SQL** (advanced queries, optimization, database design)\
+-   **Business Intelligence**: Power BI, Tableau\
+-   **Excel** (Power Query, Pivot Tables, advanced formulas)\
+-   **R** (statistical modeling & visualization)
+
+### 🛠 Data Engineering
+
+-   ETL development using **Python & SQL**\
+-   **Database Management**: PostgreSQL, MySQL, SQL Server, AWS RDS\
+-   **Cloud Platforms**: AWS (S3, EC2, RDS)
+
+### 📊 Data Visualization
+
+-   Interactive dashboards in **Power BI & Tableau**\
+-   Advanced **DAX calculations** & real-time reporting\
+-   Data storytelling through tailored reports
+
+### 🔒 Data Governance & Security
+
+-   **Data Privacy & Compliance**: GDPR, anonymization\
+-   **Security**: Role-based access control, encryption strategies
+
+------------------------------------------------------------------------
+
+💡 *I thrive at the intersection of data and strategy---designing robust
+pipelines, uncovering insights, and building visuals that empower
+organizations to make smarter decisions.*
