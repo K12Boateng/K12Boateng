@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏾, I'm Kwame Boateng</h1>
 
 <p align="center">
-  <img src="https://github.com/K12Boateng/K12Boateng/blob/main/profile-pic-circular-yellow.png" 
+  <img src="https://github.com/K12Boateng/K12Boateng/blob/main/imgs/profile-pic-circular-yellow.png" 
        alt="Profile Picture" 
        width="150" 
        height="150" 
